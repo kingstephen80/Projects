@@ -1,0 +1,3 @@
+def fizzbuzz(fizz, buzz):
+var fizz % 3 == 0
+var buzz % 5 == 0
